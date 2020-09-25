@@ -1,0 +1,5 @@
+Regularization:
+https://www.youtube.com/watch?time_continue=1&v=Erda4_adyR8&feature=emb_logo
+
+Variance-Bias:
+https://www.youtube.com/watch?v=ewogYw5oCAI
